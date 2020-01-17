@@ -2,7 +2,9 @@
 
 ## Goal: 
 
-Hand image and motion recognition for controlling cursor on computer. Meant to create a mouse-free computer environment. 
+Hand image and motion recognition for controlling cursor placement and actions on computer. Meant to create a mouse-free computer environment. 
+
+Actions supported: moving cursor, single left click, double left click, drag left click
 
 ## General layout:
 
