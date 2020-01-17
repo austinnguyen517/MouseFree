@@ -1,4 +1,4 @@
-# MouseFree
+# MouseFree: Computer Vision Based Mouse
 
 ## Goal: 
 
